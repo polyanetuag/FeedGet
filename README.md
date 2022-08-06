@@ -1,5 +1,5 @@
 <div align="center">
-  <img justify-content="center" width= '800' src="" style="margin-top: 22px"/>
+  <img justify-content="center" width= '800' src="./src/assets/feedget.gif" style="margin-top: 22px"/>
   <h1>FeedGet</h1>
 </div>
 
