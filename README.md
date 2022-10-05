@@ -1,5 +1,4 @@
 <div align="center">
-  <img justify-content="center" width= '800' src="./src/assets/feedget.gif" style="margin-top: 22px"/>
   <h1>FeedGet</h1>
 </div>
 
@@ -12,6 +11,12 @@
   </p>
 </h3>
 
+<div align="center">
+  <img align="center" justify-content="center" width= '600' src="./src/assets/feedget.gif" style="margin-top: 22px"/>
+</div>
+
+<br/>
+
 ## 📚 Sobre
 
 O projeto Feedget consiste em um tooltip de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou qualquer outra sugestão.
@@ -22,13 +27,12 @@ O projeto Feedget consiste em um tooltip de ajuda. Nele, você pode enviar feedb
 - Typescript
 - Tailwind
 
-
 ## ⏱ Como executar
 
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/polyanetuag/FeedGet.git
-# Entrar na pasta  
+# Entrar na pasta
 $ cd web
 
 # Instalar as dependências
@@ -40,10 +44,10 @@ $ yarn dev
 # O servidor será inicializado em <http://localhost:3000>
 ```
 
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
+
 Desenvolvido com 💜 por Polyane Tuag
