@@ -19,7 +19,7 @@
 
 ## 📚 Sobre
 
-O projeto Feedget consiste em um tooltip de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou qualquer outra sugestão.
+O projeto Feedget consiste em um tooltip de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou qualquer outra sugestão, além de tirar um print da tela.
 
 ## 🚀 Tecnologias utilizadas:
 
