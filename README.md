@@ -12,7 +12,7 @@
 </h3>
 
 <div align="center">
-  <img align="center" justify-content="center" width= '400' src="./src/assets/feedget.gif" style="margin-top: 22px"/>
+  <img align="center" justify-content="center" width= '450' src="./src/assets/feedget.gif" style="margin-top: 22px"/>
 </div>
 
 <br/>
