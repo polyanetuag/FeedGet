@@ -1,5 +1,6 @@
 <div align="center">
   <h1>FeedGet</h1>
+<h2>Componente de feedback</h2>
 </div>
 
 <h3 align="center">  
