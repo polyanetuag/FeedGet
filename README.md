@@ -27,7 +27,7 @@ Possui também uma opção para tirar um print da tela para reportar a devida oc
 ## 🚀 Tecnologias utilizadas:
 
 - [ReactJS](https://react.dev/)
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - Tailwind
 
 ## ⏱ Como executar
