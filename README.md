@@ -28,7 +28,7 @@ Possui também uma opção para tirar um print da tela para reportar a devida oc
 
 - [ReactJS](https://react.dev/)
 - [Typescript](https://www.typescriptlang.org/)
-- Tailwind
+- [Tailwind](https://tailwindcss.com/)
 
 ## ⏱ Como executar
 
