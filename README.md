@@ -20,7 +20,7 @@
 
 ## 📚 Sobre
 
-O projeto ***Feedget*** consiste em um componente *tooltip* de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou qualquer outra sugestão que se encontre no site.
+O projeto ***Feedget*** consiste em um componente *tooltip* de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou qualquer outra sugestão que encontre no site.
 
 Possui também uma opção para tirar um print da tela para reportar a devida ocasião. 
 
