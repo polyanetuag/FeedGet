@@ -22,7 +22,7 @@
 
 O projeto ***Feedget*** consiste em um componente *tooltip* de ajuda. Nele, você pode enviar feedbacks sobre problemas, ideias ou sugestões que encontre no site.
 
-Possui também uma opção para tirar um print da tela para reportar uma ocasião/motivo. 
+Possui também uma opção para capturar um print da tela para reportar uma ocasião/motivo. 
 
 ## 🚀 Tecnologias utilizadas:
 
