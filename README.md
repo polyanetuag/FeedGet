@@ -35,6 +35,7 @@ Possui também uma opção para capturar print da tela para reportar uma ocasiã
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/polyanetuag/FeedGet.git
+
 # Entrar na pasta
 $ cd web
 
